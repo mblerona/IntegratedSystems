@@ -1,0 +1,12 @@
+C:\Users\221541\source\repos\HospitalApp\Hospital.Domain\obj\Debug\net8.0\Hospital.Domain.csproj.AssemblyReference.cache
+C:\Users\221541\source\repos\HospitalApp\Hospital.Domain\obj\Debug\net8.0\Hospital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\221541\source\repos\HospitalApp\Hospital.Domain\obj\Debug\net8.0\Hospital.Domain.AssemblyInfoInputs.cache
+C:\Users\221541\source\repos\HospitalApp\Hospital.Domain\obj\Debug\net8.0\Hospital.Domain.AssemblyInfo.cs
+C:\Users\221541\source\repos\HospitalApp\Hospital.Domain\obj\Debug\net8.0\Hospital.Domain.csproj.CoreCompileInputs.cache
+C:\Users\221541\source\repos\HospitalApp\Hospital.Domain\bin\Debug\net8.0\Hospital.Domain.deps.json
+C:\Users\221541\source\repos\HospitalApp\Hospital.Domain\bin\Debug\net8.0\Hospital.Domain.dll
+C:\Users\221541\source\repos\HospitalApp\Hospital.Domain\bin\Debug\net8.0\Hospital.Domain.pdb
+C:\Users\221541\source\repos\HospitalApp\Hospital.Domain\obj\Debug\net8.0\Hospital.Domain.dll
+C:\Users\221541\source\repos\HospitalApp\Hospital.Domain\obj\Debug\net8.0\refint\Hospital.Domain.dll
+C:\Users\221541\source\repos\HospitalApp\Hospital.Domain\obj\Debug\net8.0\Hospital.Domain.pdb
+C:\Users\221541\source\repos\HospitalApp\Hospital.Domain\obj\Debug\net8.0\ref\Hospital.Domain.dll

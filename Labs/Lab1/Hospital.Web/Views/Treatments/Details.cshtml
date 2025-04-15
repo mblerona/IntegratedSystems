@@ -1,0 +1,37 @@
+﻿@model Hospital.Domain.DomainModels.Treatment
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Treatment</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DateAdministered)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DateAdministered)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FollowUpRequired)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FollowUpRequired)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.patient)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.patient.DateOfBirth)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

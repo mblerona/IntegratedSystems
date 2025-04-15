@@ -1,0 +1,12 @@
+C:\Users\blero\Not OneDrive\IS\OnionArch3_2\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+C:\Users\blero\Not OneDrive\IS\OnionArch3_2\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\blero\Not OneDrive\IS\OnionArch3_2\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\blero\Not OneDrive\IS\OnionArch3_2\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\blero\Not OneDrive\IS\OnionArch3_2\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blero\Not OneDrive\IS\OnionArch3_2\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\blero\Not OneDrive\IS\OnionArch3_2\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\blero\Not OneDrive\IS\OnionArch3_2\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\blero\Not OneDrive\IS\OnionArch3_2\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+C:\Users\blero\Not OneDrive\IS\OnionArch3_2\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+C:\Users\blero\Not OneDrive\IS\OnionArch3_2\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+C:\Users\blero\Not OneDrive\IS\OnionArch3_2\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
